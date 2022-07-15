@@ -8,8 +8,8 @@
 
 ## To run it:
 
-    -  To run localy it use ```python main.py```
-    -  To run in a Docker container use ```docker build . -t ovh-dns-refresh``` then ```docker run ovh-dns-refresh```
+    -  To run localy it use "python main.py"
+    -  To run in a Docker container use docker "build . -t ovh-dns-refresh" then "docker run ovh-dns-refresh"
     -  You can edit the crontab file if you want to modify when the command is running. 
        By default it runs every 10min.
 
