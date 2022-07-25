@@ -15,8 +15,8 @@
 
 ## .env file template:
 
-Your endpoint, in my case its ovh-eu : ENDPOINT=''
-Your Application Key : APPLICATION_KEY=''    
-Your Application Secret : APPLICATION_SECRET=''
-Your Consumer Key : CONSUMER_KEY=''
-Your website url as written in your DNS zone on OVH's website : WEBSITE=''
+Your endpoint, in my case it is ovh-eu : ENDPOINT = " "
+Your Application Key : APPLICATION_KEY = " "
+Your Application Secret : APPLICATION_SECRET = " "
+Your Consumer Key : CONSUMER_KEY = " "
+Your website url as written in your DNS zone on OVH's website : WEBSITE = " "
